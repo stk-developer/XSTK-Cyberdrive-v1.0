@@ -1,4 +1,14 @@
-# -*- coding: utf-8 -*-
+# ==============================================================================
+# 🛡️ X-STREAM TECH KERNEL (XSTK) CYBERDRIVE v2.4 🛡️
+# ------------------------------------------------------------------------------
+# Author: Selahattin Taha Karaşahin
+# License: GNU General Public License v3.0 (GPLv3)
+# Copyright (c) 2026. All Rights Reserved.
+#
+# ⚠️ WARNING: This project is legally protected. Unauthorized distribution 
+# or copying under names like "CyberDrive But Better" is a violation of the 
+# GPLv3 license and will result in a DMCA takedown on platforms like GitHub.
+# ============================================================================== # -*- coding: utf-8 -*-
 import pygame, random, sys, math
 
 # --- AYARLAR ---
